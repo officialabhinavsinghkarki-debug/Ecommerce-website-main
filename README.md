@@ -80,5 +80,5 @@ Forever was built to strengthen core frontend skills — component-driven archit
 
 ## Author
 
-**Ananya Thapa**
-[GitHub](https://github.com/ananyathapaa) · [LinkedIn](https://linkedin.com/in/ananyaa-thapaaa)
+**Abhinav Singh Karki**
+[GitHub](https://github.com/officialabhinavsinghkarki-debug) · [LinkedIn](www.linkedin.com/in/abhinav-singh-karki-722bb7441)
